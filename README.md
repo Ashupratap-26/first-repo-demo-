@@ -1,2 +1,2 @@
 # first-repo-demo-
-This is my first repo to understand git and github
+This is my first repo to understand git and github.
